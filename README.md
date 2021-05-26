@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ctlaltdieliet
+- 👀 I’m interested in Open Source and real time communition
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on Mattermost and Focalboard
+- 📫 You can reach me at https://twitter.com/ctl_alt_dieliet
