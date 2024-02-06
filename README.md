@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom De Moor (he/him)
-- 👀 I’m interested in Open Source and real time communition
-- 🌱 I'm currently expanding my knowledge on data analytics
+- 👀 I’m interested ReactJS, Python, Golang
+- 🌱 I'm currently expanding my knowledge on ReactJS and Docker
 - 💞️ I collaborate on Mattermost
 - 📫 You can reach me at [https://fosstodon.org/@ctlaltdieliet](https://fosstodon.org/@ctlaltdieliet)
